@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from tech import model
+from machina import model
 
 model_app = FastAPI(title="Model API")
 
